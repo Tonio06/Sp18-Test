@@ -2,8 +2,3 @@
 
 print("Hello World")
 
-#Second comment added
-
-#Third comment added
-
-#Fourth comment
