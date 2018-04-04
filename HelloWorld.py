@@ -2,6 +2,3 @@
 
 print("Hello World")
 
-#Added a new comment
-
-#Added an even newer comment
